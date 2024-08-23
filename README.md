@@ -1,2 +1,2 @@
 # Dev
-Development repository to experinment and practise coding for a range of different purposes. 
+Development repository used for testing and review before committing to the production (main) branch.
